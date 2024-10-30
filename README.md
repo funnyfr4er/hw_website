@@ -1,1 +1,1 @@
-https://funnyfr4er.github.io/hw_website/main/first_page
+https://funnyfr4er.github.io/hw_website/
